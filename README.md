@@ -36,6 +36,15 @@
 
 ## Chapter 5: Web accessibility
 
+- Inspect - lighthouse - accessibility
+- Semantic (meaningful) tag vs non-semantic
+- Header, nav, footer, section, Main
+- img tag make sure to use alt attribute
+- If you create a link make it describeable
+- Form (label)
+- role
+- aria-label
+
 
 
  
